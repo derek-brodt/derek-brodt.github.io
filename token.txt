@@ -1,0 +1,2 @@
+git config --global credential.helper store
+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
